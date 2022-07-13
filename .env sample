@@ -1,0 +1,3 @@
+GMAIL_USER = "progrmmerdaggim99@gmail.com"
+GMAIL_PASSWORD = "dhzidl67"
+MONGODB_URI = "mongodb://localhost:27017"
