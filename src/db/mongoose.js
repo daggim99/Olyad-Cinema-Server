@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect(process.env.MONGODB_URI, {
+mongoose.connect("mongodb+srv://olyad-cinema:olyadcinemapassword@cluster0.qo5bg2z.mongodb.net/?retryWrites=true&w=majority", {
   useNewUrlParser: true,
   useCreateIndex: true,
 });
